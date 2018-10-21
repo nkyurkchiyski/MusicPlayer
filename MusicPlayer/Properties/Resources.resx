@@ -118,17 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="kekp" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kekp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="icons8-pause-26" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-pause-261.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="video-play-btn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\video-play-btn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="finalRST" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\finalRST.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="finalFST" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\finalFST.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -138,15 +129,6 @@
   </data>
   <data name="icons8-skip-to-start-26" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-skip-to-start-261.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Monogram_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Monogram_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="finalRest" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\finalRest1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="anthone" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\anthone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icons8-save-26" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-save-26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,9 +145,6 @@
   <data name="icons8-end-26" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-end-261.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="test" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\test.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Uninstall-Groove-Music-from-Windows-10_thumb" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Uninstall-Groove-Music-from-Windows-10_thumb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -177,11 +156,5 @@
   </data>
   <data name="icons8-plus-math-26" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-plus-math-26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="finalFST1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\finalFST1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="backk" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\backk.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

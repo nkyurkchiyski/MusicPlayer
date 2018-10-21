@@ -100,34 +100,10 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\anthone.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Monogram_5.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\video-play-btn.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\test.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Uninstall-Groove-Music-from-Windows-10_thumb.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\finalRest1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\finalFST1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\finalRST.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\finalFST.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\kekp.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\majna.png" />
@@ -161,9 +137,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icons8-back-26.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\backk.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
